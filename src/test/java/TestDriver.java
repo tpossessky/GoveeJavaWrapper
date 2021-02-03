@@ -7,9 +7,9 @@ import java.util.Map;
 public class TestDriver {
 
     //Fill in these parameters to run
-    public static String API_KEY = "2b52995c-24f2-47a5-9329-3f8a97a83279";
-    public static String DEVICE_MODEL = "H6163";
-    public static String DEVICE_MAC= "B3:21:A4:C1:38:A4:98:93";
+    public static String API_KEY = "";
+    public static String DEVICE_MODEL = "";
+    public static String DEVICE_MAC= "";
 
     public static void main(String[] args) throws MalformedURLException {
         GoveeController controller = new GoveeController(API_KEY);
