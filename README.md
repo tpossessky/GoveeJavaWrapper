@@ -21,3 +21,14 @@ Before utilizing any API calls, check the documentation provided when you reques
 
 ### Dependencies
 This wrapper is dependent upon org.json version 20201115 for formatting requests and responses. 
+  #### Maven 
+      <!-- https://mvnrepository.com/artifact/org.json/json -->
+        <dependency>
+          <groupId>org.json</groupId>
+          <artifactId>json</artifactId>
+          <version>20201115</version>
+        </dependency>
+  #### Gradle
+        compile group: 'org.json', name: 'json', version: '20201115'
+
+
