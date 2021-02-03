@@ -17,7 +17,7 @@ A lightweight Java Wrapper for Govee API calls
 ### Usage
 The Govee API limits requests to 100 per minute. If you exceed this limit, you must wait until your calls reset. You can check your current usage using the `getRateLimit()` method.
 
-Before utilizing any API calls, check the documentation provided when you requested your API Key to check which operations are supported by what devices. This information can be found on page 1 (as of API Version 1.1) under "Getting Started with the Govee API". 
+Before utilizing any API calls, check the documentation provided when you requested your API Key to check which operations are supported by what devices. This information can be found on page 1 (as of API Version 1.1) under "Getting Started with the Govee API". Example: Don't use `setRGB()` for a Wi-Fi plug
 
 ### Dependencies
 This wrapper is dependent upon org.json version 20201115 for formatting requests and responses. 
