@@ -21,7 +21,7 @@ Before utilizing any API calls, check the documentation provided when you reques
 
 ### Examples
 
-Please visit the Wiki page for coding examples
+Please visit the [Wiki](https://github.com/tpossessky/GoveeJavaWrapper/wiki/Examples) page for coding examples
 
 ## Installing
 
