@@ -9,9 +9,9 @@ A lightweight Java Wrapper for Govee API calls
 
 ### Using the Test Code
 1. Follow the steps above for obtaining an API Key
-2. Fill the API_KEY string with your API key
+2. Fill the `API_KEY` string with your API key
 3. Add a breakpoint after line 21 to select your device's MAC and Model information
-4. Fill the DEVICE_MODEL and DEVICE_MAC fields in the code
+4. Fill the `DEVICE_MODEL` and `DEVICE_MAC` fields in the code
 5. Run!
 
 ### Usage
