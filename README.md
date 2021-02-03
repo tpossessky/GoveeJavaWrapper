@@ -19,6 +19,10 @@ The Govee API limits requests to 100 per minute. If you exceed this limit, you m
 
 Before utilizing any API calls, check the documentation provided when you requested your API Key to check which operations are supported by what devices. This information can be found on page 1 (as of API Version 1.1) under "Getting Started with the Govee API". Example: Don't use `setRGB()` for a Wi-Fi plug
 
+### Examples
+
+Please visit the Wiki page for coding examples
+
 ## Installing
 
 Simply implement the govee-java-wrapper-1.0.jar in your project in order to use the included features.
