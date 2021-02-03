@@ -1,5 +1,8 @@
 # GoveeJavaWrapper
+
 A lightweight Java Wrapper for Govee API calls
+
+![Screenshot](govee.png)
 
 ## Obtaining a Govee API Key
 1. Log into your account on the Govee Home mobile application
