@@ -1,6 +1,6 @@
 # GoveeJavaWrapper
 
-A lightweight Java Wrapper for Govee API calls
+A lightweight Java Wrapper for Govee API calls and interacting with Govee lights.
 
 ![Screenshot](govee.png)
 
